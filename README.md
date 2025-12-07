@@ -1,4 +1,4 @@
-# BlessedOS - work in progress
+# BlessedOS
 
 ## Zanim coś Ci się nie spodoba przeczytaj uważnie README dwa razy!
 
