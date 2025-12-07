@@ -4,7 +4,7 @@
 
 Fork wszystkim dobrze znanego oraz w pewnych kręgach lubianego systemu opracyjnego. 
 Mowa oczywiście o M$ VV1nd0vvs. Z racji tego, że dziwnym trafem system ten należy do firmy, która posiada również
-GitHub'a - słowo na W będzie zastąpione słowem 'Binbows' z wiadomych względów. Nie jest to modyfikacja pojedyńczej wersji
+GitHub'a z wiadomych względów nie będe bezpośrednio używał słowa na W. Nie jest to modyfikacja pojedyńczej wersji
 lecz cała seria moich modów a zawarte są w niej: XP'ek, 7, 8.1, 10 i 11. Poniżej bardziej szczegółowy opis każdej z wersji.
 
 # BlessedOS 11
