@@ -6,7 +6,7 @@ Fork wszystkim dobrze znanego oraz w pewnych kręgach lubianego systemu opracyjn
 Mowa oczywiście o M$ VV1nd0vvs. Z racji tego, że dziwnym trafem system ten należy do firmy, która posiada również
 GitHub'a z wiadomych względów nie będe bezpośrednio używał słowa na W. Nie jest to modyfikacja pojedyńczej wersji
 lecz cała seria moich modów a zawarte są w niej: XP'ek, 7, 8.1, 10 i 11. Poniżej bardziej szczegółowy opis każdej z wersji.
-Kontakt z autorem (i naszym team'em): https://discord.gg/UgVxsKqZ
+Linnki w pliku "Linki.md". Kontakt z autorem (i naszym team'em): https://discord.gg/UgVxsKqZ
 
 # BlessedOS 11
 ## Info od autora: póki 10 działa absolutnie kurvva odradzam używania 11 xD
