@@ -17,7 +17,7 @@ Jako jest to wersja LT$C to już sama w sobie jest dosyć czysta. System otrzymu
 * Superfetch - na dyskach HDD się sprawdzał, ale SSD niepotrzebnie żyłuje,
 * Wyłączono "pagefile" - ten sam powód co wyżej,
 * Rozmaite pliki cache, których i tak nie powinno być w czystym systemie, a które w razie potrzeby i tak się odbudują.
-Dodatkowo w wersji Lite:
+## Dodatkowo w wersji Lite:
 * Xbox,
 * SFC,
 * Update,
@@ -28,13 +28,12 @@ OpisL Mod bazujący na VV10 LT$C 2021 x64. Poza tym w większości to samo co 11
 ## Wycięte/wyłączone:
 * Wszystko to co 11,
 * Copilot.
-Dodatkowo wersja Lite:
-* Też to co w 11,
+## Dodatkowo w wersji Lite:
 * Centrtum akcji (wyskakujące powiadomienia),
 * Recovery.
 
 # Blessed 8.1
-Opis: Bazaowany na VV8.1 PRO x64 oraz x32. Wiadomo aktówka na OFFLINE z MA$$GRAVE'm. Zintegrowane wszystkie aktualizajce aż do zakończenia wsparcia oraz NET Framework 3.5. Klasyczne menu start przypominające to z W7.
+Opis: Bazaowany na VV8.1 PRO x64 oraz x32. Zintegrowane wszystkie aktualizajce aż do zakończenia wsparcia oraz NET Framework 3.5. Klasyczne menu start przypominające to z W7.
 ## Wycięte/wyłączone:
 * To samo co wcześniejsze systemy,
 * Popup’y o aktualizacji do nowszej wersji systemu,
@@ -45,7 +44,7 @@ Opis: Baza - VV7 Profe$$ional x64 oraz x32. Zintegrowane wszystkie aktualizajce 
 * I znowu to samo co w poprzednikach xD
 
 # Blessed XP
-Opis: Baza - VV XP Profe$$ional SP3 wersja 32bit'owa (x86). Zaimportowane wszystkie aktualizacje z wersji "Embedded POSReady", która była wspierana do 2019 roku. Nic nie wycinane - w XP'eku można wszystko powyłączać z poziomu systemu. Instalator z W7 więc można boot'ować z Ventoy'a czy Rufus'a.System podczas instalacji zrestartuje się kilka razy. Nic nie ruszać aż do pierwszego wprowadzenia! NETFX_4.8 wymaga doinstalowania OneCore API: https://github.com/shorthorn-project/One-Core-API-Binaries/releases/latest/download/one-core-api-pack-x86.zip
+Opis: Baza - VV XP Profe$$ional SP3 wersja 32bit'owa (x86). Zaimportowane wszystkie aktualizacje z wersji "Embedded POSReady", która była wspierana do 2019 roku. Nic nie wycinane - w XP'eku można wszystko powyłączać z poziomu systemu. Instalator z W7 więc można boot'ować z Ventoy'a czy Rufus'a. System podczas instalacji zrestartuje się kilka razy. Nic nie ruszać aż do pierwszego wprowadzenia!
 ## Zintegrowane:
 * Aktualizacje do 9 kwietnia 2019 r.
 * .Net Framework 1.1-4.0 + pakiety językowe.
