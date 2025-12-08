@@ -6,7 +6,7 @@ Fork wszystkim dobrze znanego oraz w pewnych kręgach lubianego systemu opracyjn
 Mowa oczywiście o M$ VV1nd0vvs. Z racji tego, że dziwnym trafem system ten należy do firmy, która posiada również
 GitHub'a z wiadomych względów nie będe bezpośrednio używał słowa na W. Nie jest to modyfikacja pojedyńczej wersji
 lecz cała seria moich modów a zawarte są w niej: XP'ek, 7, 8.1, 10 i 11. Poniżej bardziej szczegółowy opis każdej z wersji.
-Kontakt z twórcą i resztą j33banych nerdów piwniczaków (głównie gadamy o linuxie): https://discord.gg/UgVxsKqZ
+Kontakt z autorem (i naszym team'em): https://discord.gg/UgVxsKqZ
 
 # BlessedOS 11
 ## Info od autora: póki 10 działa absolutnie kurvva odradzam używania 11 xD
@@ -41,7 +41,7 @@ Opis: Bazaowany na VV8.1 PRO x64 oraz x32. Wiadomo aktówka na OFFLINE z MA$$GRA
 * Popup’y o aktualizacji do nowszej wersji systemu,
 
 # Blessed 7
-Opis: Baza - VV7 Profe$$ional x64 oraz x32. Zintegrowane wszystkie aktualizajce aż do zakończenia wsparcia oraz NET Framework 3.5.
+Opis: Baza - VV7 Profe$$ional x64 oraz x32. Zintegrowane wszystkie aktualizajce aż do zakończenia wsparcia oraz NET Framework 3.5. Przy instalacji wersji x32 wyskakuje jeden błąd nie mający wpływu na instalacje i należy go zignorować.
 ## Wycięte/wyłączone:
 * I znowu to samo co w poprzednikach xD
 
