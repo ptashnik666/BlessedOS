@@ -10,8 +10,9 @@ Mega_02: https://mega.nz/folder/IBNCjCjI#-yJQLeyzYdQABq6ABk1q_g
 Mega_03: https://mega.nz/folder/T05DDLiK#UKhrYQGgmXaOPLFczl3TRw
 
 ## GDrive (10-11):
-Tu będzie link...
+GDrive_01: https://drive.google.com/drive/folders/1eSMStE2rYviEKX_jJt7s04hR1T75L7Xn
 
 ## GDrive (XP-8.1):
-Tu będzie link...
+GDrive_01:
+
 
