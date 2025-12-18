@@ -24,7 +24,7 @@ Jako jest to wersja LT$C to już sama w sobie jest dosyć czysta. System otrzymu
 * Defender.
 
 # Blessed 10
-OpisL Mod bazujący na VV10 LT$C 2021 x64. Poza tym w większości to samo co 11 poza specyficznymi tweak'ami typowo dla 10. Jeśli chcesz korzystać z któregoś z tych modów na codzień to zalecam własnie tą wersję. Ja osobiście używam BlessedOS'a 10 Lite na dualboocie z pingwinem.
+Opis: Mod bazujący na VV10 LT$C 2021 x64. Poza tym w większości to samo co 11 poza specyficznymi tweak'ami typowo dla 10. Jeśli chcesz korzystać z któregoś z tych modów na codzień to zalecam własnie tą wersję. Ja osobiście używam BlessedOS'a 10 Lite na dualboocie z pingwinem.
 ## Wycięte/wyłączone:
 * Wszystko to co 11,
 * Copilot.
