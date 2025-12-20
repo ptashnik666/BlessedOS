@@ -6,7 +6,7 @@ Fork wszystkim dobrze znanego oraz w pewnych kręgach lubianego systemu opracyjn
 Mowa oczywiście o M$ VV1nd0vvs. Z racji tego, że dziwnym trafem system ten należy do firmy, która posiada również
 GitHub'a z wiadomych względów nie będe bezpośrednio używał słowa na W. Nie jest to modyfikacja pojedyńczej wersji
 lecz cała seria moich modów a zawarte są w niej: XP'ek, 7, 8.1, 10 i 11. Poniżej bardziej szczegółowy opis każdej z wersji.
-Linnki w pliku "Linki.md". Kontakt z autorem (i naszym team'em): https://discord.gg/UgVxsKqZ
+Linnki w pliku "Linki.md".
 
 # Blessed 11
 Opis: Modyfikacja bzaująca na VV11 LT$C 2024 x64. System aktywuje się OFFLINE podczas instalacji przy użyciu skryptu od MA$$GRAVE.
